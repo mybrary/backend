@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Beginning Node.js, Express & MongoDB Development",
+        "author": "Greg Lim",
+        "rating": 5,
+        "review": "Short, sweet, and loaded with working examples."
+    },
+    {
+        "title": "Pat the Bunny",
+        "author": "Dorothy Kunhardt",
+        "rating": 4,
+        "review": "Who doesn't like patting bunnies?  Story was too complex, though."
+    },
+    {
+        "title": "The React Workshop",
+        "author": "Richey, Brandon",
+        "rating": 1.5,
+        "review": "Typos and errors in the very first exercises.  Do not recommend."
+    }
+]
