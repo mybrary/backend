@@ -8,6 +8,10 @@ app.use(cors())
 const methodOverride = require('method-override')
 app.use(methodOverride('_method'))
 
+// Middleware to be activated when user authentication goes online
+const validateMiddleware = require('./middleware/validationMiddleware')
+const authMiddleware = require('./middleware/authMiddleware')
+const redirectIfAuthenticatedMiddleware = require('./middleware/redirectIfAuthenticatedMiddleware')
 
 const bookController = require('./controllers/books')
 app.use('/books', bookController)

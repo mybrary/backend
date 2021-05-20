@@ -1,7 +1,7 @@
 [
     {
         "title": "Beginning Node.js, Express & MongoDB Development",
-        "authors": [ "Greg Lim" ],
+        "authors": "Greg Lim",
         "publish_date": "July 2019",
         "image_link": "Put URL Here.",
         "rating": 5,
@@ -9,15 +9,69 @@
     },
     {
         "title": "Pat the Bunny",
-        "authors": [ "Dorothy Kunhardt" ],
+        "authors": "Dorothy Kunhardt",
         "publish_date": "1968",
         "image_link": "Put URL Here.",
         "rating": 4,
         "review": "Who doesn't like patting bunnies?  Story was too complex, though."
     },
     {
+        "title": "The Hobbit",
+        "authors": "J.R.R. Tolkien",
+        "publish_date": "1966",
+        "image_link": "Put URL Here.",
+        "rating": 5,
+        "review": "I read this at least 20 time growing up."
+    },
+    {
+        "title": "The Design of Everyday Things",
+        "authors": "Don Norman",
+        "publish_date": "2013",
+        "image_link": "Put URL Here.",
+        "rating": 4,
+        "review": "Excellent treatise on why things around us are designed the way they are.  Great for people working on UX/UI design."
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "authors": "Andrew Hunt, David Thomas",
+        "publish_date": "1964",
+        "image_link": "Put URL Here.",
+        "rating": 3.5,
+        "review": "Bite-sized essays on different aspects of software development."
+    },
+    {
+        "title": "When Things Fall Apart",
+        "authors": "Pema Chodron",
+        "publish_date": "1997",
+        "image_link": "Put URL Here.",
+        "rating": 4,
+        "review": "A book written about Project 3"
+    },
+    {
+        "title": "What You Are Getting Wrong About Appalachia",
+        "authors": "Elizabeth Catte",
+        "publish_date": "2018",
+        "image_link": "Put URL Here.",
+        "review": "Recommended to me; on my reading list!"
+    },
+    {
+        "title": "Thinking, Fast and Slow",
+        "authors": "Daniel Kahneman",
+        "publish_date": "2011",
+        "image_link": "Put URL Here.",
+        "review": "Recommended to me; on my reading list.  Big book."
+    },
+    {
+        "title": "Algorithms to Live By",
+        "authors": "Brian Christian, Tom Griffiths",
+        "publish_date": "2017",
+        "image_link": "Put URL Here.",
+        "rating": 3,
+        "review": "Life Coaching by Commander Data."
+    },
+    {
         "title": "The React Workshop",
-        "authors": [ "Richey, Brandon", "Yu, Ryan", "Vegh, Endre"],
+        "authors": "Brandon Richey, Ryan Yu, Endre Vegh",
         "publish_date": "August 2020",
         "image_link": "Put URL Here.",
         "rating": 1.5,
