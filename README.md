@@ -16,8 +16,10 @@ The Mybrary app can be access on [Heroku](https://mybrarysei322.herokuapp.com/),
 
 ### Screenshots
 
-TBD
+Not applicable for backend, as it does not render screens.
 
 ### Resources
 
-TBD
+MongoDB GUI: [MongoDB Compass](https://www.mongodb.com/products/compass)
+
+User Authentication was implemented using instructions from [Beginning Node.js, Express & MongoDB](https://smile.amazon.com/Beginning-Node-js-Express-MongoDB-Development/dp/9811480281/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1621563156&sr=8-1) by Greg Lim.
